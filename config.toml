@@ -33,7 +33,7 @@ canonifyurls = true
 [author]
   name = "Deng Liangwen"
   bio = "mail: dlwxxxdlw@163.com<br>telephone: 13880337161"
-  job = "Python, looking for a new job"
+  job = "Python Programmer"
   location = "Chengdu"
   email = "dlwxxxdlw@163.com"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
