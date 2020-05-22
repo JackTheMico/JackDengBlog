@@ -1,7 +1,7 @@
 baseURL = "https://JackTheMico.github.io"
 languageCode = "zh-Hans"
 defaultContentLanguage = "zh"
-title = "邓量文的博客"
+title = "Jack Deng 的博客"
 theme = "dream"
 
 copyright = '<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议</a>进行许可。'
@@ -25,17 +25,17 @@ hasCJKLanguage = true
   backgroundImage = "/me/background.jpg"
   linkColor = "seagreen"
 
-  author = "g1eny0ung"
-  description = "g1eny0ung 的生活记录～"
+  author = "Jack Deng"
+  description = "Jack Deng 的生活记录～"
   avatar = "/me/yy.jpg"
-  motto = "与其感慨路难行，不如马上出发。"
+  motto = "成功不是你赢过多少人，而是你帮过多少人"
 
-  email = "g1enyy0ung@gmail.com"
+  email = "dlwxxxdlw@163.com"
   twitter = "g1eny0ung"
   facebook = "g1eny0ung"
   instagram = "g1enyy0ung"
   linkedin = "钺杨g1eny0ung"
-  github = "g1eny0ung"
+  github = "JackTheMico"
   stackoverflow = "5676489/g1eny0ung"
   codepen = "g1eny0ung"
 
