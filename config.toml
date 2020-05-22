@@ -22,22 +22,22 @@ hasCJKLanguage = true
 
 [params]
   # background = "black"
-  backgroundImage = "/me/background.jpg"
+  backgroundImage = "/img/2.jpg"
   linkColor = "seagreen"
 
   author = "Jack Deng"
-  description = "Jack Deng 的生活记录～"
-  avatar = "/me/yy.jpg"
+  description = "Jack Deng 的生活、技术、杂想记录～"
+  avatar = "/img/avater.jpg"
   motto = "成功不是你赢过多少人，而是你帮过多少人"
 
   email = "dlwxxxdlw@163.com"
-  twitter = "g1eny0ung"
-  facebook = "g1eny0ung"
-  instagram = "g1enyy0ung"
-  linkedin = "钺杨g1eny0ung"
+  twitter = ""
+  facebook = ""
+  instagram = ""
+  linkedin = ""
   github = "JackTheMico"
-  stackoverflow = "5676489/g1eny0ung"
-  codepen = "g1eny0ung"
+  stackoverflow = "Jack The Mico"
+  codepen = ""
 
   siteStartYear = 2020
 
