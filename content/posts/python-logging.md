@@ -1,6 +1,9 @@
 +++
 title = "Python 日志常用配置代码记录"
 author = ["Jack Deng"]
+date = 2020-05-26T00:00:00+08:00
+tags = ["python", "logging"]
+categories = ["codes"]
 draft = false
 +++
 

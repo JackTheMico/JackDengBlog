@@ -20,6 +20,10 @@ hasCJKLanguage = true
     [markup.goldmark.renderer]
       unsafe = true
 
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+
 [params]
   # background = "black"
   backgroundImage = "/img/2.jpg"
