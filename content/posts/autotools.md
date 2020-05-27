@@ -2,10 +2,14 @@
 title = "记录下我曾经用过或接触过的自动化工具"
 author = ["Jack Deng"]
 date = 2020-05-26T00:00:00+08:00
-tags = ["python", "auto"]
-categories = ["tools"]
+tags = ["Python", "自动化"]
+categories = ["工具"]
 draft = false
 +++
+
+三个主流自动化工具
+<!--more-->
+
 
 ## RobotFramework {#robotframework}
 

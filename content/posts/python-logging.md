@@ -2,14 +2,15 @@
 title = "Python 日志常用配置代码记录"
 author = ["Jack Deng"]
 date = 2020-05-26T00:00:00+08:00
-tags = ["python", "logging"]
-categories = ["codes"]
+tags = ["Python", "logging"]
+categories = ["Python代码"]
 draft = false
 +++
 
 ## Python 日志常用配置代码记录 {#python-日志常用配置代码记录}
 
 条件允许，能用 loguru 就用 loguru 吧，方便好使！
+<!--more-->
 
 
 ### 标准库 logging {#标准库-logging}
